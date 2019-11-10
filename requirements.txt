@@ -1,0 +1,4 @@
+pyarrow
+python-twitter
+pandas
+matplotlib
